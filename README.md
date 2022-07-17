@@ -1,10 +1,21 @@
 # Neural_Network_Charity_Analysis
 
 Overview of Project:
+In this project by using knowledge of "Machine Learning" and Neural Networks, I created a binary classifier using features in the dataset that helps predict whether the applicants that will be funded by a Charitable organization called Alphabet Soup will be successful or not. For this analysis we had a dataset containing various measures on 34,000 organizations that have been funded by Alphabet Soup. This project compromised of the following 3 steps:
+
+1. Preprocessing the data for the neural network
+2. Compile, Train and Evaluate the Model
+3. Optimizing the model
 ---
 
 #### Deliverable 1: Preprocessing Data for a Neural Network Model
 
+<p align="center">  
+ <img src="" width="350" title="hover text">
+</p>
+<p align="center">  
+<i>Figure 1: </i>
+</p>
 
 #### Deliverable 2: Compile, Train, and Evaluate the Model
 
