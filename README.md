@@ -62,6 +62,4 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 #### Summary:
 The model was not able to reach the target 75%. The accuracy for my model was 69%. There seems to be loss of accuracy after several attempt which is caused by overfitting the model.The model ended up with the accuracy score of 0.46 after optimization. we could further also optimize our neural network by removing more features or simply adding more data to the dataset to increase accuracy. Since our accuracy score was not particularly up to the standard with neural networks, we could have used the Random Forest classifiers. This is because random forest is a robust and accurate model due to their sufficient number of estimators and tree depth. Also the random forest models have a faster performance than neural networks and could have avoided the data from being overfitted.
 
-----
 
-#### Resources::
