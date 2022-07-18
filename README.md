@@ -18,20 +18,19 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 </p>
 
 <p align="center">  
- <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Unique_1.2.png" " title="hover text">
+ <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Unique_1.2.png" >
 </p>
 
 <p align="center">  
-<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Hot_encoder_1.3.png" "title="hover text">
+<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Hot_encoder_1.3.png" >
 </p>
        
 <p align="center">  
-<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Split_1.4.png"  title="hover text">
-</p>
-                 
+<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Split_1.4.png">
+</p>              
       
 <p align="center">  
-<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Fit_Scale_1.5.png"  title="hover text">
+<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Fit_Scale_1.5.png" >
 </p>
                  
 
@@ -61,7 +60,8 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 
 
 #### Summary:
-The model was not able to reach the target 75%. The accuracy for my model was 69%.
+The model was not able to reach the target 75%. The accuracy for my model was 69%. There seems to be loss of accuracy after several attempt which is caused by overfitting the model.The model ended up with the accuracy score of 0.46 after optimization. we could further also optimize our neural network by removing more features or simply adding more data to the dataset to increase accuracy. Since our accuracy score was not particularly up to the standard with neural networks, we could have used the Random Forest classifiers. This is because random forest is a robust and accurate model due to their sufficient number of estimators and tree depth. Also the random forest models have a faster performance than neural networks and could have avoided the data from being overfitted.
 
 ----
+
 #### Resources::
