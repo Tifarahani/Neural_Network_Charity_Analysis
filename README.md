@@ -41,7 +41,8 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Compile_2.2.png title="hover text">
 
 * Attempt 1: Removed additional feature, that is the 'USE_CASE' column. Rest of the model components stayed the same, however model accuracy went down to 63%.
-<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attemp1_2.3.png">                                                                                         
+<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt1.1.png">                                                        <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt1.2.png">  
+
 * Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 53%.    
                                                                                                                                                                
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt%202.png">                                              
