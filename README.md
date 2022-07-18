@@ -18,20 +18,20 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 </p>
 
 <p align="center">  
- <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Drop_Ein%2CName.1.2.png" " title="hover text">
+ <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Unique_1.2.png" " title="hover text">
 </p>
 <p align="center">  
 <i>Figure 1: </i>
 </p>
 <p align="center">  
- <img src=".png" width="350" title="hover text">
+<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Hot_encoder_1.3.png" width="350" title="hover text">
 </p>
 <p align="center">  
 <i>Figure 1: </i>
 </p>
 
 <p align="center">  
- <img src="" width="350" title="hover text">
+ <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Define_Layers_2.1.png" width="350" title="hover text">
 </p>
 <p align="center">  
 <i>Figure 1: </i>
