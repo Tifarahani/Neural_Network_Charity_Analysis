@@ -39,13 +39,13 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 * Attempt 1: Removed additional feature, that is the 'USE_CASE' column. Rest of the model components stayed the same, however model accuracy went down to 68%.
 
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt1.1.png">                                                        <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt1.2.png"> 
-<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Define_Layers_2.1.png" >
-<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Compile_2.2.png">
+
 
 * The steps taken to try and increase model performance:
 
 * Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 53%.    
-                                                                                                                                                               
+<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Define_Layers_2.1.png" >
+<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Compile_2.2.png">                                             
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt%202.png">   
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt%202.2.png ">     
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Evaluate.Attempt%202.png">        
