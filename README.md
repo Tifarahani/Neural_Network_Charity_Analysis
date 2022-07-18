@@ -24,19 +24,19 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 <i>Figure 1: </i>
 </p>
 <p align="center">  
-<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Hot_encoder_1.3.png" width="350" title="hover text">
+<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Hot_encoder_1.3.png" "title="hover text">
 </p>
 <p align="center">  
 <i>Figure 1: </i>
 </p>
        
 <p align="center">  
-<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Split_1.4.png" width="350" title="hover text">
+<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Split_1.4.png"  title="hover text">
 </p>
                  
       
 <p align="center">  
-<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Fit_Scale_1.5.png" width="350" title="hover text">
+<img src= "https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Fit_Scale_1.5.png"  title="hover text">
 </p>
                  
 <p align="center">  
