@@ -39,7 +39,7 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 </p>
 
 #### Deliverable 2: Compile, Train, and Evaluate the Model
-
+<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Define_Layers_2.1.png" title="hover text">
 
 #### Deliverable 3: Optimize the Model
 ---
