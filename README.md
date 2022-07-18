@@ -36,12 +36,10 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
                  
 
 #### Deliverable 2: Compile, Train, and Evaluate the Model
-
+* Attempt 1: Removed additional feature, that is the 'USE_CASE' column. Rest of the model components stayed the same, however model accuracy went down to 63%.
+<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt1.1.png">                                                        <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt1.2.png"> 
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Define_Layers_2.1.png" title="hover text">
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Compile_2.2.png title="hover text">
-
-* Attempt 1: Removed additional feature, that is the 'USE_CASE' column. Rest of the model components stayed the same, however model accuracy went down to 63%.
-<img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt1.1.png">                                                        <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt1.2.png">  
 
 * The steps taken to try and increase model performance:
 
