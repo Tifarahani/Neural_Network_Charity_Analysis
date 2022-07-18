@@ -35,7 +35,7 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 </p>
                  
 <p align="center">  
- <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Define_Layers_2.1.png" width="350" title="hover text">
+ <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Define_Layers_2.1.png"  title="hover text">
 </p>
 
 #### Deliverable 2: Compile, Train, and Evaluate the Model
