@@ -51,7 +51,8 @@ In this project by using knowledge of "Machine Learning" and Neural Networks, I 
 <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attempt%202.2.png ">                                                                                                                               
  *Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 50%.
                                                                                    
-  <img src=" https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attampt%203.2.png">                                                                             
+  <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attampt%203.2.png">                                                                             
  <img src="https://github.com/Tifarahani/Neural_Network_Charity_Analysis/blob/main/Resources/Img/Attampt%203.3.evaluate.png">
+ 
 ---
 #### Resources:
